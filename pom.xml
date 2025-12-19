@@ -14,7 +14,7 @@
         <allure.testng>2.17.2</allure.testng>
         <allure.maven>2.11.2</allure.maven>
         <aspectj.version>1.9.7</aspectj.version>
-        <log4j2.version>2.17.1</log4j2.version>
+        <log4j2.version>2.25.3</log4j2.version>
         <!--suppress UnresolvedMavenProperty -->
         <profile>${env.BUILD_PROFILE}</profile>
     </properties>
